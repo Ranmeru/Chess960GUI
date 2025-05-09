@@ -1,0 +1,7 @@
+An UnhandledException occurred!
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at Lizard.Logic.Threads.SearchThread.Search() in C:\Programming\Lizard\Lizard.Engine\Logic\Threads\SearchThread.cs:line 338
+   at Lizard.Logic.Threads.SearchThread.MainThreadSearch() in C:\Programming\Lizard\Lizard.Engine\Logic\Threads\SearchThread.cs:line 308
+   at Lizard.Logic.Threads.SearchThread.IdleLoop() in C:\Programming\Lizard\Lizard.Engine\Logic\Threads\SearchThread.cs:line 286
+   at Lizard.Logic.Threads.SearchThread.ThreadInit() in C:\Programming\Lizard\Lizard.Engine\Logic\Threads\SearchThread.cs:line 198
+   at System.Threading.Thread.StartCallback()

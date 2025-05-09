@@ -1,0 +1,18 @@
+{
+"engine_paths": {
+            "Stockfish": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\stockfish-windows-x86-64-avx2.exe",
+            "Revenge": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\Revenge_win_avx2.exe",
+            "Berserk": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\berserk-13-avx2.exe",
+            "Caissa": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\caissa-1.22-x64-avx2-bmi2.exe",
+            "Stormphrax": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\stormphrax-6.0.0-avx2.exe",
+            "Viridithas": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\viridithas-17.0.0-win-x86-64-v3.exe",
+            "Plentychess": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\PlentyChess-5.0.0-windows-avx2.exe",
+            "Horsie": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\horsie-1_0-v3.exe",
+            "Lizard": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\Lizard-11_2-win.exe",
+            "Rubichess": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\velvet-v8.1.1-x86_64-avx2.exe",
+            "Clover": "C:\\Users\\Rfair\\Downloads\\original-960-gui\\engines\\Clover.8.1-avx2.exe"
+            },
+            "piece_path": "assets/pngpieces",
+            "svg_input_folder": "assets/svgpieces",
+            "png_output_folder": "assets/pngpieces"
+        }
